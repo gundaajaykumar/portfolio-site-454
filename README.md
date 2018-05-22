@@ -1,4 +1,4 @@
-# portfolio-site-454
+# Portfolio-site-454
 
 ## Project description
 
@@ -6,24 +6,24 @@
   
 ## Requirements
 
-  - updated web browser
+  - Updated web browser
   
   - HTML and CSS
   
-## contents
+## Contents
 
-  - portfolio.htm
+  - Portfolio.htm
   
-## procedure to run the project
+## Procedure to run the project
 
   - Open the required html file.
   
-  - click on name of image to display wikipedia.
+  - Click on name of image to display wikipedia.
   
   - Check the responsive in various styles Desktop, Mobile: Google Nexus 5, Tablet: Apple iPad.
   
-## extra features
+## Extra features
 
-  - if we click on the first image then wikipedia page will be displayed.
+  - If we click on the first image then wikipedia page will be displayed.
   
-  -if we click on "learn more" in below grid templates then wikipedia page will be displayed. 
+  - If we click on "learn more" in below grid templates then wikipedia page will be displayed. 
